@@ -13,7 +13,7 @@ export default function PrivacyPolicyPage() {
             <h1 className="text-3xl md:text-5xl font-bold">Privacy Policy</h1>
           </div>
           <p className="text-lg max-w-2xl">
-            Your privacy is important to us. Here's how we handle your data.
+            Your privacy is important to us. Here s how we handle your data.
           </p>
         </div>
       </section>
@@ -65,7 +65,7 @@ export default function PrivacyPolicyPage() {
         <div>
           <h2 className="text-xl font-semibold mb-2">7. Your Rights</h2>
           <p>
-            You may request to view, update, or delete your personal data by contacting us. We will process your request in accordance with applicable laws.
+            You may request to vie update or delete your personal data by contacting us. We will process your request in accordance with applicable laws.
           </p>
         </div>
 
@@ -79,7 +79,7 @@ export default function PrivacyPolicyPage() {
         <div>
           <h2 className="text-xl font-semibold mb-2">9. Contact Us</h2>
           <p>
-            If you have any questions about this policy, feel free to contact us:
+            If you have any questions about this policy feel free to contact us:
             <br />
             <strong>Phone:</strong> <a href="tel:+919992229143" className="text-blue-600 underline">+91 99909 39208</a><br />
             <strong>Address:</strong> Rajiv Colony, Gali No. 4, near KTM showroom.
