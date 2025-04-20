@@ -32,13 +32,13 @@ export default function WashingMachineRepairHero() {
 
         <div className="flex gap-4">
           <Link href="tel:9992229143">
-            <button className="bg-blue-600 hover:bg-blue-700 transition px-6 py-3 rounded-lg text-white font-semibold flex items-center gap-2">
+            <button className="bg-blue-600 hover:bg-blue-700 transition md:px-6 px-1 md:py-3 py-1 rounded-lg text-white font-semibold flex items-center gap-2">
               <PhoneIcon /> Call Now
             </button>
           </Link>
 
           <Link href="https://wa.me/9992229143" target="_blank">
-            <button className="bg-green-600 hover:bg-green-700 transition px-6 py-3 rounded-lg text-white font-semibold flex items-center gap-2">
+            <button className="bg-green-600 hover:bg-green-700 transition md:px-6 px-1 md:py-3 py-1 rounded-lg text-white font-semibold flex items-center gap-2">
               <WhatsAppIcon /> WhatsApp Us
             </button>
           </Link>
