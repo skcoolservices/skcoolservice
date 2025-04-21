@@ -18,7 +18,7 @@ export default function ContactUsInfoDetails() {
             <p className="flex items-center gap-3">
               <PhoneIcon className="text-blue-600" />
               <Link href="tel:9992229143" className="hover:underline">
-                +91 99909 39208
+                +91 9992229143
               </Link>
             </p>
             <p className="flex items-center gap-3">
