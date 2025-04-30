@@ -42,7 +42,7 @@ const Navbar = () => {
     className="h-10 w-auto" // Adjust height as needed
   />
   <Typography variant="h6" className="text-white font-bold">
-    SK Engineering
+    SK Cool Services
   </Typography>
 </Box>
 
