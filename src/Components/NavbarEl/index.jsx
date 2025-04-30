@@ -36,14 +36,16 @@ const Navbar = () => {
         <Toolbar className="flex justify-between items-center py-2 px-4">
           {/* Logo / Brand */}
           <Box className="flex items-center gap-2">
-            <AcUnitIcon className="text-white" fontSize="large" />
-            <Box>
-              <Typography variant="h6" className="text-white font-bold">
-                SK COOL Services
-              </Typography>
-              
-            </Box>
-          </Box>
+  <img
+    src="/logo.png"
+    alt="Logo"
+    className="h-10 w-auto" // Adjust height as needed
+  />
+  <Typography variant="h6" className="text-white font-bold">
+    SK Engineering
+  </Typography>
+</Box>
+
 
           {/* Desktop Menu */}
           <Box className="hidden md:flex gap-4">
